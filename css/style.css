@@ -47,7 +47,7 @@ a:active{
 }
 
 .button:hover{
-	background:red;
+	background:blue;
 	color:#fff;
 }
 
